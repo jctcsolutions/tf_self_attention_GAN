@@ -1,3 +1,4 @@
+### Summary
 Tensorflow implementation of Generative Adversarial Network (GAN) with spectral normalization and self-attention (SA) layer.
 *(Note: this implementation was done with Google's Colab environment which allows for FREE-GPU acceleration up to 12-hours.)*
 
